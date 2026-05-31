@@ -62,7 +62,7 @@ def ventas_mensuales(datos):
     return meses
 
 def resultados(TotalVentas, ProdMasVendido, VentasXmes):
-    with open("/content/resultados/informe.txt", "w") as archivo:
+    with open("/content/Trabajo-Practico-n-2/resultados/informe.txt", "w") as archivo:        
         archivo.write(f"El total de ventas fue de {TotalVentas}\n")
         archivo.write(f"El producto mas vendido fue: {ProdMasVendido}\n")
 

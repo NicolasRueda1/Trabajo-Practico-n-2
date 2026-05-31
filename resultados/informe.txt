@@ -1,0 +1,6 @@
+El total de ventas fue de 624000.0
+El producto mas vendido fue: Mouse
+Ventas por mes:
+Mes 01: $177500.0
+Mes 02: $270000.0
+Mes 03: $176500.0

@@ -75,3 +75,4 @@ TotalVentas = ventas_totales(archivo)
 pmv = producto_mas_vendido(archivo)
 ventas_por_mes = ventas_mensuales(archivo)
 resultados(TotalVentas, pmv, ventas_por_mes)
+#Fin del SCRIPT - El analisis de las ventas fue completado con exito
